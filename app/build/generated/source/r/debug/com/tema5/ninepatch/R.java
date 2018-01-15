@@ -11,9 +11,12 @@ public final class R {
   public static final class drawable {
     public static final int button_no_patch=0x7f010000;
     public static final int button_over_nopatch=0x7f010001;
-    public static final int fondo_boton_nopatch=0x7f010002;
-    public static final int ic_action_search=0x7f010003;
-    public static final int ic_launcher=0x7f010004;
+    public static final int button_over_patch=0x7f010002;
+    public static final int button_patch=0x7f010003;
+    public static final int fondo_boton_nopatch=0x7f010004;
+    public static final int fondo_boton_patch=0x7f010005;
+    public static final int ic_action_search=0x7f010006;
+    public static final int ic_launcher=0x7f010007;
   }
   public static final class id {
     public static final int button1=0x7f020000;

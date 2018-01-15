@@ -40,6 +40,45 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/home/usuario/AndroidStudioProjects/NinePatch/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/usuario/AndroidStudioProjects/NinePatch/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,4",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,136",
+                        "endLines": "-1,11",
+                        "endColumns": "-1,12",
+                        "endOffsets": "-1,571"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "413,471",
+                        "endLines": "10,18",
+                        "endColumns": "57,12",
+                        "endOffsets": "466,906"
+                    }
+                },
+                {
+                    "source": "/home/usuario/AndroidStudioProjects/NinePatch/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,140,174,227,278,344,379",
+                        "endColumns": "47,36,33,52,50,65,34,33",
+                        "endOffsets": "98,135,169,222,273,339,374,408"
+                    }
+                }
+            ]
         }
     ]
 }
